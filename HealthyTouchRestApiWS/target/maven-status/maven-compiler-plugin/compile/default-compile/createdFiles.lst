@@ -1,0 +1,16 @@
+pojo\OrnekOgunModel.class
+pojo\GidaSilModel.class
+post\PostClass.class
+pojo\PopulerModel.class
+vtbaglanti\veritabani_baglanti.class
+pojo\GidaEkleModel.class
+put\PutClass.class
+delete\DeleteClass.class
+pojo\GidaBilgiModel.class
+application\ApplicationClass.class
+pojo\CevapModel.class
+get\GetClass.class
+pojo\GidaModel.class
+pojo\OturumModel.class
+pojo\GirisModel.class
+pojo\KullaniciModel.class
